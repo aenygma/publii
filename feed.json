@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Slate",
+    "description": "",
+    "home_page_url": "https://aenygma.github.io/publii",
+    "feed_url": "https://aenygma.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Karsh"
+    },
+    "items": [
+        {
+            "id": "https://aenygma.github.io/publii/books.html",
+            "url": "https://aenygma.github.io/publii/books.html",
+            "title": "Books",
+            "summary": " Notes on the Synthesis of Form A book that’s fundamental to any engineering activity; whether in its abstract forms of philsophy, art, music or more pragmatic like building a shoe rack. It is at the core about how to work with real life. Many&hellip;",
+            "content_html": "<ul>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form\">Notes on the Synthesis of Form</a></p>\n<p>  A book that’s fundamental to any engineering activity; whether in its abstract forms of philsophy, art, music or more pragmatic like building a shoe rack. It is at the core about how to work with real life.<br>  Many of his other books need proper attention and thought.</p>\n</li>\n<li><p><a href=\"https://en.wikipedia.org/wiki/Introduction_to_Psychoanalysis\">Introductory Lectures on Psycho-Analysis</a></p>\n<p>   A book that’s also core to engineering. It is not the content of the lectures that captures my interest, but the detailed accounting of how Freud states what he encounters and the care he takes to create a model of his experience.<br>   It is this effort in modelling that’s truly impressive.</p>\n</li>\n<li></li>\n</ul>\n",
+            "author": {
+                "name": "Karsh"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-05T18:43:11-07:00",
+            "date_modified": "2021-11-05T18:43:53-07:00"
+        },
+        {
+            "id": "https://aenygma.github.io/publii/doubt.html",
+            "url": "https://aenygma.github.io/publii/doubt.html",
+            "title": "Doubt",
+            "summary": "Doubt visits us all, at the times we least wish it to. Unshakeable and initially inexpressible, often like an unwanted denseness against our lighter being. An unwanted fluidity in our foundation of certainity. Doubt really becomes the enemy, when it is confronted like a threat.",
+            "content_html": "<p>Doubt visits us all, at the times we least wish it to. \nUnshakeable and initially inexpressible, often like an unwanted denseness against our lighter being. An unwanted fluidity in our foundation of certainity.</p>\n<p>Doubt really becomes the enemy, when it is confronted like a threat. \nWhen it is treated like a thief; an assailant that could rob us of what we hold most dear.</p>\n<p>And yet we must admit the way we give credence to its power. We give credence to its form, and we give credence to its threat</p>\n<p>Some part of us gives weight to its heft, that only in turn we notice when it comes to bludgeon what we hold dear.</p>\n<p>It often goes unnoticed how our eyes must have narrowed and cast upon it in suspicion even before it started to speak.</p>\n<hr>\n<p>How could anyone rob you if you are founded in yourself?\nEven the indication that losing something is a threat, does not come from doubt.</p>\n<p>Because doubt just poses the question; empty…\nDoubt in its truest form is a question. It is the scaffold without the building. It is just a bullfight without the bull; an arena with an insouciant matador.</p>\n<p>It is a disposition and a stance of questioning.</p>\n<p>It is like a gun without bullets (use better metaphor)</p>\n<p>What gives doubt its strength is our own knowledge there’s something more fundamental than what the quotidian life demands of us. \nThere’s a deeper way belonging that. doubt has also the bill that beckons us home. </p>\n<p>When we have forgotten your doubt can doubt is also the bell. </p>\n<p>The suppertime bell that calls us back home that calls us to our belonging. </p>\n<p>Doubt is the bell that calls us home. When we have forgotten to sound. When we, when we have been out and play too long, And have forgotten how to get back home. Doubt is the ringing of the summertime bell when he, when we have been out too long in play</p>\n<p>that invites us back home that guides us back home, back home. We’re all the pieces are allowed to go here. Back home, where all the pieces. Rejoin back home. We’re all the brothers and sisters, meet again in a way. And with the stories. They haven’t had before. </p>\n<p>The real invitation of doubt, is not to appease or suffice it with an answer. Put in truly listening to its story from where it arises, how it expresses itself. Let me get past. It is a story that has to be felt in the body. In the armoring in the presumed danger hidden debates. The way to rescue. In the way it arrests view.</p>\n<p>Doubt in its kinder form is a calling to live a bit larger. To imagine a way to be </p>\n",
+            "author": {
+                "name": "Karsh"
+            },
+            "tags": [
+                   "doubt"
+            ],
+            "date_published": "2021-11-05T17:54:26-07:00",
+            "date_modified": "2021-11-09T09:38:56-08:00"
+        },
+        {
+            "id": "https://aenygma.github.io/publii/first-few-words.html",
+            "url": "https://aenygma.github.io/publii/first-few-words.html",
+            "title": "First few words ",
+            "summary": "In the midst of it all, the fewest words are the most important ",
+            "content_html": "<p>In the midst of it all, the fewest words are the most important</p>\n",
+            "author": {
+                "name": "Karsh"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-05T17:52:43-07:00",
+            "date_modified": "2021-11-05T17:52:43-07:00"
+        }
+    ]
+}
